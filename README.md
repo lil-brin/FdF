@@ -2,4 +2,4 @@
 
 simple 3D renderer
 
-![screenshot](screen.png?raw=true)
+![screenshot](Screen.png?raw=true)
