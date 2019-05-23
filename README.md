@@ -6,11 +6,9 @@ simple 3D renderer
 
 ## Features
 * Simple file format definition (array of space-separated integers)
-* 3D rotations with the mouse
+* 3D rotations with the keys
 * Camera controls (zoom, translate)
-* Pretty color gradients!
 * Double-buffered
-* Line clipping
 
 ## Compiling and running
 Run `make`. An executable will compile. Currently only tested on OS X.
